@@ -5,7 +5,7 @@ const State = () => {
     // console.log(sum)
     console.log(useState("Bilal"))
 
-    const [num, setNum] = useState(0)
+    const [num, setNum] = useState(45)
     // const [num1, setNum1] = useState(num)
 // console.log(num)
 //  let arr = [1,2,3,4,"Ali", "Shazil", "Cr", "Bilal"]
