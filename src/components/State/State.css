@@ -1,0 +1,10 @@
+.change-color:hover{
+    background-color: #000 !important;
+    color: #fff;
+} 
+.change-color{
+    background-color: red;
+}
+.change-color2{
+    background-color: yellow;
+}
